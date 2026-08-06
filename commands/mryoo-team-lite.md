@@ -1,5 +1,7 @@
 ---
-description: Call Mr Yoo Team Lite (G + Andy + Bobby) to add small features, fix bugs, or do a simple refactor. Sequential pipeline: Plan → Code → Review.
+description: >
+  Call Mr Yoo Team Lite (G + Andy + Bobby) to add small features, fix bugs,
+  or do a simple refactor. Sequential pipeline: Plan → Code → Review.
 user-invocable: true
 ---
 

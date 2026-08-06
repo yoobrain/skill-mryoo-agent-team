@@ -1,5 +1,9 @@
 ---
-description: Call Mr Yoo Team Expert (8 agents) for large projects or a new phase. Staged pipeline: Architect → Parallel Coders → Parallel Review → Optimize → Integration test. Ensures the code runs, is modular, CPU/RAM-optimized, and low on hidden bugs.
+description: >
+  Call Mr Yoo Team Expert (8 agents) for large projects or a new phase.
+  Staged pipeline: Architect → Parallel Coders → Parallel Review → Optimize
+  → Integration test. Ensures the code runs, is modular, CPU/RAM-optimized,
+  and low on hidden bugs.
 user-invocable: true
 ---
 
